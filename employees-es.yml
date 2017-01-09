@@ -1,6 +1,6 @@
 pattern:
-    date: dd/MM/YYYY
-    datetime: dd/MM/YYYY HH:mm
+    date: dd/MM/YY
+    datetime: dd/MM/YYYY HH:mmss
 
 gender:
   male: M
