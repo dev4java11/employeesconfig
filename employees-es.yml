@@ -5,8 +5,6 @@ pattern:
 gender:
   male: M
   female: F
-
-gender:
   description:
     male: Masculino
     female: Femenino
