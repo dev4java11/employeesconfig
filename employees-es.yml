@@ -1,0 +1,10 @@
+
+
+pattern.date=dd/MM/YYYY
+pattern.datetime=dd/MM/YYYY HH:mm:ss
+
+gender.male=M
+gender.female=F
+
+gender.male.description=Masculino
+gender.female.description=Femenino
