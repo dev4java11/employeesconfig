@@ -1,0 +1,10 @@
+pattern:
+    date: dd/MM/YYYY
+    datetime: dd/MM/YYYY HH:mm:ss
+
+gender:
+  male: M
+  female: F
+  description:
+    male: Masculino
+    female: Femenino
