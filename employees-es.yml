@@ -8,3 +8,16 @@ gender:
   description:
     male: Masculino
     female: Femenino
+
+
+feign:
+  client:
+    salary: salary-es
+    url: bbbb
+
+
+salary:
+  configuration:
+    id:
+      regex: _
+      pattern: YYYY-MM-dd
