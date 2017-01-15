@@ -1,0 +1,3 @@
+pattern:
+  date: YYYY-MM-dd
+  regex: _
