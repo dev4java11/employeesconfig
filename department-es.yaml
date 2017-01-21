@@ -1,5 +1,5 @@
 pattern:
-    date: dd-MM-YYYY
+    date: ddMMYYYY
     datetime: dd/MM/YYYY HH:mm:ss
 
 gender:
