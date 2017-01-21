@@ -1,5 +1,5 @@
 zuul:
 	routes:
 		deparment:
-			path: /deparmentapp/*
+			path: /deparmentapp/**
 			serviceId: department-es
