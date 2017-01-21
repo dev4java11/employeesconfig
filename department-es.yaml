@@ -8,3 +8,5 @@ gender:
   description:
     male: Masculino
     female: Femenino
+
+department: departamento
